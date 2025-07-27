@@ -61,5 +61,4 @@ black =(0, 30, -20, 20, -20, 20)  # 黑色阈值
 baudrate=115200, timeout=2000
 ```
 
-## 许可证
-MIT License
+
